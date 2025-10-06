@@ -212,13 +212,18 @@ Características:
 
 ---
 
-## Video Explicativo
+## 📹 Video Explicativo
 
-Link: []
+**Explicación completa del algoritmo y demostración** (3:47 min):
+
+**🎥 [Ver Video en YouTube](https://youtu.be/6NtAqhSbD1w)**
+
+En el video explico:
+- Las 4 estrategias de optimización implementadas
+- Demostración de los 3 test cases funcionando
+- Tour por la interfaz web (extra opcional)
 
 ---
-
-## Testing y Validación
 
 ### Tests Automatizados
 
@@ -226,7 +231,7 @@ Link: []
 npx tsx utils/algorithm.test.ts
 ```
 
-### Tests Manuales (UI)
+### Test Manuales (UI)
 
 Probar en <http://localhost:3000> con:
 
